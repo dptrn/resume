@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #D4AC0D ;
+    color: white;
+}
+h1{
+    margin-left: 40%;
+    padding: 5px;
+
+}
+.main{
+    background-color: white;
+    width: 650px;
+    height: 700px;
+    padding-top: 20px;
+    margin-left: 30%;
+}
+.main .mainclass1 img{
+    width: 130px;
+    height: 180px;
+    padding: 5px;
+    border-radius: 0px 0px 100px 100px;
+    margin-left: 60px;
+}
+.main .mainclass{
+    display: flex;
+}
+.main .mainclass .mainclass2{
+    color: black;
+    
+}
+.mainclass2 h4{
+    margin-left: 200px;
+}
+.main .mainclass .mainclass1 .main1{
+    background-color: #E5E7E9;
+    color: black;
+    width: 250px;
+    height: 495px;
+    padding: 5px;
+
+}
+.main .mainclass .mainclass1 .main1 .para3 p{
+    font-weight: bold;
+    
+}
+.main .mainclass .mainclass1 .main1 .para4 p{
+    font-weight: bold;
+    
+}
+.main .mainclass .mainclass1 .main1 .verline{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.main .mainclass .mainclass1 .main1 .refer{
+display: flex;
+}
+.main .mainclass .mainclass1 .main1 .refer .content{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass1 .main1 .refer .content .para5 p{
+    font-weight: bold;
+}
+.main .mainclass .mainclass1 .main1 .verline1{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.main .mainclass .mainclass1 .main1 .refer1{
+display: flex;
+}
+.main .mainclass .mainclass1 .main1 .refer1 .content1{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass1 .main1 .refer1 .content1 .para6 p{
+    font-weight: bold;
+}
+.location{
+    display: flex;
+}
+.location .para p{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass1 .main1 .number{
+    display: flex;
+}
+.main .mainclass .mainclass1 .main1 .number .para1 p{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass1 .main1 .gmail{
+    display: flex;
+}
+.main .mainclass .mainclass1 .main1 .gmail .para2 p{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass2 .horiline{
+    background-color: #D4AC0D;
+    width: 450px;
+    height: 5px;
+    margin-left: 40px;
+}
+.main .mainclass .mainclass2 .lorem1{
+    background-color: #D4AC0D;
+    width: 3px;
+    height: 50px;
+}
+.main .mainclass .mainclass2 .lorem{
+    display: flex;
+}
+.main .mainclass .mainclass2 .lorem .para6 p{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass2 .lorem2{
+    background-color: #D4AC0D;
+    width: 3px;
+    height: 50px;
+}
+.main .mainclass .mainclass2 .loremcontent{
+    display: flex;
+}
+.main .mainclass .mainclass2 .loremcontent .para7 p{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass2 .skill{
+    display: flex;
+}
+.main .mainclass .mainclass2 .skill2{
+    margin-left: 20px;
+}
+.main .mainclass .mainclass2 .interest{
+    columns: 50px;
+}
+.main .mainclass .mainclass2 .move{
+    margin-left: 40px;
+}
+.main .mainclass .mainclass2 h4{
+    
+}
